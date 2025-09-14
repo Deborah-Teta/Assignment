@@ -18,7 +18,7 @@ Project Status: Completed. Continously Updated as I explore and acquire more ski
 
 Below you Find a sample of how the whole project looks like;
 
-<img width="935" height="272" alt="image" src="https://github.com/user-attachments/assets/30be0305-4f9e-4958-90a9-7630d9087d69" />
+<img width="937" height="271" alt="image" src="https://github.com/user-attachments/assets/06cdbc0e-b67d-487e-a749-142c43fb2105" />
 <img width="938" height="370" alt="image" src="https://github.com/user-attachments/assets/fcb2db3f-b81f-490f-885a-e3f77ae05c4b" />
 <img width="938" height="373" alt="image" src="https://github.com/user-attachments/assets/3cd34b79-692e-4a07-9871-6168c1942093" />
 <img width="941" height="107" alt="image" src="https://github.com/user-attachments/assets/2b31c0b1-a44f-4efc-b71b-8caa0717eaa3" />
