@@ -7,19 +7,20 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 <body class="font-sans bg-gray-50 text-gray-600">
-    <header class="fixed w-full bg-white shadow-md z-10">
+    <header class="fixed w-full bg-white shadow-md">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
-            <h1 class="font-bold text-2xl shadow-md z-10 text-blue-800">Deborah TETA</h1>
+            <h1 class="font-bold text-2xl shadow-md text-blue-800">Deborah TETA</h1>
             <nav>
                 <ul class="flex space-x-8">
                     <li><a href="#About" class="hover:text-green-600 transition-colors font-bold">About</a></li>
                     <li><a href="#Projects" class="hover:text-green-600 transition-colors font-bold">Projects</a></li>
+                    <li><a href="#Skills" class="hover:text-green-600 transition-colors font-bold">Skills</a></li>
                     <li><a href="#Contact" class="hover:text-green-600 transition-colors font-bold">Contact</a></li>
                 </ul>
             </nav>
         </div>
     </header>
-    <!--Homepage Section-->
+    <!--Hero Section-->
     <section class="bg-gradient-to-r text-white pb-20  pt-32 from-blue-500 to-purple-600 text-white">
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-4xl md:text-5xl font-bold mb-4">FrontEnd Developer</h2>
@@ -74,6 +75,9 @@
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-lg bg-blue-100 flex items-center justify-center mr-4"></div>
                         <h2 class="text-2xl font-bold text-gray-800">Feel the Beauty platform</h2>
+                    </div>
+                    <div class="rounded-lg overflow-hidden w-48 h-48 bg-blue-100 shadow-xl">
+                        <img src="Photo\feelthebeauty.png" alt="e-commercesite">
                     </div>
                     <p class="text-gray-600 mb-6 leading-relaxed">
                         A modern e-commerce website that connects and suppliers of interior design materials.
@@ -142,21 +146,18 @@
                 </div>
             </article>
         </div>
+    </section>    
     <!--skills-->
-    <div class="mb-12">
+    <section id="Skills class py-20">
+        <div class="mb-12">
         <h2 class="text-2xl font-semibold text-gray-800 mb-8 pb-2 border-b border-gray-200 ">Skills</h2>
-    
-        <!-- Skills container with grid layout for responsive design -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <!-- Individual skill items -->
             <div class="bg-white rounded-lg shadow p-6">
                 <div class="flex justify-between items-center mb-2">
                     <h3 class="font-medium text-gray-700">Semantic HTML</h3>
                     <span class="text-lg font-bold text-blue-600">85%</span>
                 </div>
-                <!-- Progress bar container -->
                 <div class="w-full bg-gray-200 rounded-full h-2.5">
-                    <!-- Progress bar with width set to percentage -->
                     <div class="bg-blue-600 h-2.5 rounded-full w-110"></div>
                 </div>
             </div>
@@ -202,7 +203,6 @@
             </div>
         </div>
     </div>
-    <!--motivation to cantact me part -->
     <div class="text-center mt-16">
         <h2 class="text-3xl font-bold text-gray-800 mb-6">Interested in working together?</h2>
         <a href="#Contact"
