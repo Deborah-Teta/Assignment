@@ -1,12 +1,20 @@
-I designed and developed a responsive, modern portfolio website to showcase my skills, projects, and professional experience as a front-end developer. This portfolio serves as a central hub for potential clients and employers to learn about my capabilities and view my work.
+I designed and developed a responsive, modern portfolio website that describe my professional capabilities. This portifolio serves as  both a professional presentation and a practical example of my development capabilities.
 
 Key Feature:
 
-Responsive Design: A responsive layout that works seamlessly across mobile, tablet, and desktop devices
+-Responsive Design: A responsive layout that works seamlessly across mobile, tablet, and desktop devices
 
-Project: project section highlighting the most significant projects with descriptions and technologies used in their development
+-Project: project section highlighting the most significant projects with descriptions and technologies used in their development
 
-Skills Visualization:  displayed technical competencies with progress indicators
+-Skills Visualization:  displayed technical competencies with progress indicators
+
+Technologies used:
+
+-Semantic HTML
+
+-TailwindCSS
+
+Project Status: Completed. Continously Updated as I explore and acquire more skills
 
 Below you Find a sample of how the whole project looks like;
 
