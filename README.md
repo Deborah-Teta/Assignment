@@ -1,3 +1,15 @@
+I designed and developed a responsive, modern portfolio website to showcase my skills, projects, and professional experience as a front-end developer. This portfolio serves as a central hub for potential clients and employers to learn about my capabilities and view my work.
+
+Key Feature:
+
+Responsive Design: A responsive layout that works seamlessly across mobile, tablet, and desktop devices
+
+Project: project section highlighting the most significant projects with descriptions and technologies used in their development
+
+Skills Visualization:  displayed technical competencies with progress indicators
+
+Below you Find a sample of how the whole project looks like;
+
 <img width="935" height="272" alt="image" src="https://github.com/user-attachments/assets/30be0305-4f9e-4958-90a9-7630d9087d69" />
 <img width="938" height="370" alt="image" src="https://github.com/user-attachments/assets/fcb2db3f-b81f-490f-885a-e3f77ae05c4b" />
 <img width="938" height="373" alt="image" src="https://github.com/user-attachments/assets/3cd34b79-692e-4a07-9871-6168c1942093" />
